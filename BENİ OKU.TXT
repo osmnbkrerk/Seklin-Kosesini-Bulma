@@ -1,0 +1,2 @@
+Dosyanın dizinleriyle ilgili bir sorun çıkma durumunu göze alarak çıktılarının screenshot'ını alıp dikdörtgenÇıktısı.png ve üçgenÇıktısı.png olarak kaydettim. 
+Programımın çıktısını bu dosyalarda görebilirsiniz.
